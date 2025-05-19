@@ -1,6 +1,6 @@
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
-## NAME: BARADHAN.L
-## REG NO :212224040045
+## NAME:SURYA D
+## REG NO :212224220115
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
